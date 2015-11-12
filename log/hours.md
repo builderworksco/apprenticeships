@@ -1,5 +1,7 @@
 # Max
 
+Pay day = Fourth Friday of each month
+
 ## November
 
 - 11/5 - 2
