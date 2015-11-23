@@ -13,3 +13,9 @@ Week total: 2
 - 11/12 - 3
 
 Week total: 10
+
+- 11/17 - 3
+- 11/19 - 3 (Job Fair)
+- Do we add the flex hours or no?
+
+Week total: 6 (10 w/ flex)
