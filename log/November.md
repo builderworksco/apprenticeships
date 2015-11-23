@@ -30,5 +30,11 @@ Wednesday: Not actual work but I went to the Bug Bash(see above).
 
 Thursday: we worked primarily on WorkDesq and Justin taught me mostly about how to use git properly. We did some more coding in atom and I wrote some more code for WorkDesq involving character limits for user input fields.
 
-End of Week 11/21 (coming soon)
+End of Week 11/21 
+Worked on workdesq some more tuesday. No questions here.
+
+Thursday we were with Jesse and then we went to the job fair. Im having Trouble getting rails to work on my computer. Something about a SSL error, and whenever I try to DL the file I can't get it in the format I need.
+
+Have been trying to work through a base rails project but still no luck with rails. 
+Project: http://guides.rubyonrails.org/getting_started.html
 
