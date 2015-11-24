@@ -17,6 +17,6 @@ Week total: 10
 - 11/17 - 3
 - 11/18 - 2 mostly trying to get rails to work
 - 11/19 - 3 (Job Fair)
-- 11/20 - 1 Couldn't get rails to work, but I read through a few projects to at least try and get a feel for the syntax
+- 11/20 - at least an hour (1) Couldn't get rails to work, but I read through a few projects to at least try and get a feel for the syntax
 
 Week total: 10
