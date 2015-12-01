@@ -20,3 +20,5 @@ Week total: 10
 - 11/20 - at least an hour (1) Couldn't get rails to work, but I read through a few projects to at least try and get a feel for the syntax
 
 Week total: 10
+
+PAID - 12/1/15
