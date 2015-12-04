@@ -22,3 +22,6 @@ Week total: 10
 Week total: 10
 
 PAID - 12/1/15
+
+- 12/1 - 3
+- 12/3 - 3
