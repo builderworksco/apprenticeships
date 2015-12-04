@@ -53,4 +53,4 @@ I have a lot of HTML work to do this weekend so I don't know how much I'll get a
 
 I'll update this with more later, I'm in class right now so I don't have access to any of the screencaps I took with my Ruby/Rails issues.
 
-Week 12/7 - 12/13(Next week)
+
