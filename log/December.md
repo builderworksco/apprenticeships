@@ -20,4 +20,4 @@ Helpful Cheatsheet?
 
 <a href="http://www.screencast.com/t/yxfZSZbDZkk">Ruby File Descriptions</a>
 
-Week 11/7 - 11/13 (Next Week)
+Week 12/7 - 12/13 (Next Week)
