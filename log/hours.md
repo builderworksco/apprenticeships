@@ -23,6 +23,8 @@ Week total: 10
 
 PAID - 12/1/15
 
+## December
+
 - 12/1 - 3
 - 12/3 - 3
 
@@ -32,4 +34,8 @@ PAID - 12/1/15
 - 12/18 - 6 (Like 1.5 hours of phone call)
 - 12/22 - 6
 - 12/29 - 6 @ Home
+
+PAID - 1/5/16
+
+## January
 
