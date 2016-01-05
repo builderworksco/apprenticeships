@@ -30,5 +30,6 @@ PAID - 12/1/15
 
 - 12/17 - 3  
 - 12/18 - 6 (Like 1.5 hours of phone call)
-
+- 12/22 - 6
+- 12/29 - 6 @ Home
 
