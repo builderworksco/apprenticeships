@@ -20,4 +20,5 @@ Helpful Cheatsheet?
 
 <a href="http://www.screencast.com/t/yxfZSZbDZkk">Ruby File Descriptions</a>
 
-Week 12/7 - 12/13 (Next Week)
+Week 12/7 - 12/31
+December was pretty slow. A lot of set up to get the Digital Ocean Droplet to work. Started a trail blog to get familiar with Ruby.
