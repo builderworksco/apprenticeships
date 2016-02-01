@@ -46,5 +46,6 @@ PAID - 1/5/16
 - 1/19 - 5
 - 1/21 - Not here
 - 1/26 - 3.5
-- 1/27 - 
-- 1/28 -
+- 1/27 - 3 (Linux Install)
+- 1/28 - 2 (Didn't come in, worked more on linux)
+- 1/31 - 2 Environment set up, not done but down to just the dependancies
